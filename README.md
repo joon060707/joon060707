@@ -13,6 +13,9 @@
 ## 블로그
 https://blog.naver.com/joon060707
 
+## 링크트리
+https://linktr.ee/tjtj
+
 ## Since
 Blog: 2020.09.23~
 
