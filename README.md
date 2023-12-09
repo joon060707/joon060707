@@ -1,6 +1,5 @@
+![trs](https://github.com/joon060707/joon060707/assets/71119608/806be7ba-8db9-470e-9695-a85973d9628e)
 # Introduction(소개)
-![trs](https://github.com/joon060707/joon060707/assets/71119608/db8878b9-d53f-4c3d-bdc6-8b67d565cfff)
-
 트제해라의 깃허브 페이지입니다.
 사실 아직 아무 것도 모르는 상황에서 페이지만 만들었네요.ㅎㅎ
 그래도 제가 개발 분야를 희망하는 만큼
